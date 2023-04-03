@@ -1,0 +1,48 @@
+
+.search-column {
+    background-color: #1e1f21;
+    color:white;
+    padding: 10px;
+}
+
+.nav-bar {
+    background-color: #0a66cf;
+    text-align: center;
+        padding: 10px;    padding: 10px;
+}
+
+.container-fluid{
+
+    color: black;
+    padding: 10px;
+
+}
+
+.btn{
+    background-color: rgb(232, 126, 27);
+}
+
+#five-day-forecast{
+    background-color: rgb(129, 130, 130);
+    padding: 10px;
+}
+
+#forecast{
+    background-color: rgb(129, 130, 130);
+    padding: 10px;
+}
+
+#searched-city{
+    background-color: rgb(232, 126, 27);
+    padding: 10px;
+}
+
+#current-forecast{
+    background-color: rgb(232, 126, 27);
+        padding: 10px;
+}
+
+#fiveday-container{
+    background-color: rgb(129, 130, 130);
+    padding: 10px;
+}
